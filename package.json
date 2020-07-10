@@ -1,8 +1,12 @@
 {
   "name": "@reutovartem/dbsimple",
   "version": "1.0.0",
-  "description": "Async library for mysql",
+  "description": "Library for MySQL queries",
   "main": "index.js",
+  "dependencies": {
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,16 +15,13 @@
     "url": "git+https://github.com/reutovartem/njs-dbsimple.git"
   },
   "keywords": [
-    "nodejs",
-    "mysql"
+    "mysql",
+    "nodejs"
   ],
   "author": "Reutov Artem",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/reutovartem/njs-dbsimple/issues"
   },
-  "homepage": "https://github.com/reutovartem/njs-dbsimple#readme",
-  "dependencies": {
-    "mysql2": "^2.1.0"
-  }
+  "homepage": "https://github.com/reutovartem/njs-dbsimple#readme"
 }
