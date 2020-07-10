@@ -1,5 +1,5 @@
 {
-  "name": "ra-dbsimple",
+  "name": "@reutovartem/dbsimple",
   "version": "1.0.0",
   "description": "Async library for mysql",
   "main": "index.js",
