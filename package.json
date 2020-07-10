@@ -14,7 +14,7 @@
     "nodejs",
     "mysql"
   ],
-  "author": "Reutov Artem",
+  "author": "reutovartem",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/reutovartem/njs-dbsimple/issues"
